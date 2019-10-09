@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &142340247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5817999050204379124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b2b2209d9d2b694e93afea4bf45fc40, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  joystick: {fileID: 0}
+  speed: 40
+  rb: {fileID: 0}
+--- !u!1001 &5817999050204279124
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_Name
+      value: tobogan7 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.6906143
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.31999993
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7.4071856
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.0073824963
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.11990978
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.06100566
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9908812
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 13.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -7.0460005
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.257078
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.69533
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2567296
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4010665175afec64a809bd5a2d14d1a2, type: 2}
+    - target: {fileID: 6400000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+      propertyPath: m_Convex
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b70b88a7d2a1b19428101520a69466ca, type: 3}
+--- !u!1 &5817999050204379124 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: b70b88a7d2a1b19428101520a69466ca,
+    type: 3}
+  m_PrefabInstance: {fileID: 5817999050204279124}
+  m_PrefabAsset: {fileID: 0}
